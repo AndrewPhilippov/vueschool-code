@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26ab1201-f6d0-4a34-b9f4-6c34527227a9" name="Default Changelist" comment="Deployed static version to netlify" />
+    <list default="true" id="26ab1201-f6d0-4a34-b9f4-6c34527227a9" name="Default Changelist" comment="Starting forum project from VueSchool">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nuxt-fundamentals" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XCTWfVD70dKSUJdERdf9aiyEoD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -93,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580549109387</updated>
       <workItem from="1580549110555" duration="12297000" />
-      <workItem from="1580784959477" duration="4406000" />
+      <workItem from="1580784959477" duration="4666000" />
     </task>
     <task id="LOCAL-00001" summary="Test Nuxt app built and ready for deploy">
       <created>1580558320867</created>
