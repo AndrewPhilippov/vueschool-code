@@ -1,4 +1,4 @@
-// Potential User Class that requires testing
+// Potential UserSpec Class that requires testing
 class User {
     constructor(details) {
         const { firstname, lastname } = details
@@ -19,7 +19,7 @@ const nameTest = function () {
         lastname: 'Doe'
     }
 
-    // Instantiate a new User
+    // Instantiate a new UserSpec
     const testUser = new User(userDetails)
     // Print out result of the test
     console.log('Username is correct: ', testUser.name === 'Jane sssDoe')
@@ -66,7 +66,7 @@ const Permissions = {
     }
 }
 
-// Potential User class
+// Potential UserSpec class
 class User {}
 
 const user = new User()
